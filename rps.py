@@ -119,7 +119,7 @@ while c != True:
   print("2) No")
   game = int(input("Enter your choice(number): "))
   while game != 1 and game != 2:
-      print("Invalid inut. Please type the correct input in number(1 for Yes and 2 for No).")
+      print("Invalid input. Please type the correct input in number(1 for Yes and 2 for No).")
       print("\nDo you wish to continue? ")   
       print("1) Yes")
       print("2) No")
